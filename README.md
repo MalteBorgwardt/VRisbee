@@ -1,6 +1,6 @@
 # VRisbee
 
-The Unity-Project VRisbee, a VR Frisbee game created to study How Hand Visibility Influences How Hand Visibility Impacts Throwing Accuracy and Experience in Virtual Reality.
+The Unity-Project VRisbee, a VR Frisbee game created in 2022 to study How Hand Visibility Influences How Hand Visibility Impacts Throwing Accuracy and Experience in Virtual Reality.
 
 A project by Malte Borgwardt, Jonas Boueke, María Sanabria Rojas, Michael Bonfert and Robert Porzel.
 
